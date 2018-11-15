@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Experience
 permalink: /projects/
 ---
 
@@ -54,13 +54,20 @@ permalink: /projects/
 
 ## 활동사진
 
-![이마트 이미지](/images/emart/emart1.jpg )
+<div style="border: 1px ; float: left; width: 50%;">
+  <img src="/images/emart/emart1.jpg " width="500" height="313">
+</div>
+<div style="border: 1px ; float: left; width: 50%;">
+  <img src="/images/emart/emart5.jpg " width="500" height="313">
+</div>
 
-![이마트 이미지](/images/emart/emart5.jpg )
+<div style="border: 1px ; float: left; width: 50%;">
+   <img src="/images/emart/emart3.jpg " width="500" height="313">
+</div>
+<div style="border: 1px ; float: left; width: 50%;">
+   <img src="/images/emart/emart7.jpg " width="500" height="313">
+</div>
 
-![이마트 이미지](/images/emart/emart3.jpg )
-
-![이마트 이미지](/images/emart/emart7.jpg )
 
 - - -
 
@@ -81,12 +88,16 @@ permalink: /projects/
 ##### 2. 브랜드 아카데미라는 강의를 수강하면서 브랜드를 보는 시야를 보다 넓게 가질 수 있었고, 브랜드의 정체성과 '나'라는 브랜드에 대해서도 깊이 생각해 볼 수 있었습니다.
 
 ## 활동사진
-![이마트 이미지](/images/emart/Team2.jpg )
 
-![이마트 이미지](/images/emart/Team3.jpg )
 
-![이마트 이미지](/images/emart/Team1.jpg )
+<img src="/images/emart/Team2.jpg " width="100%" height="400">
 
+<div style="border: 1px ; float: left; width: 50%;">
+   <img src="/images/emart/Team3.jpg " width="500" height="313">
+</div>
+<div style="border: 1px ; float: left; width: 50%;">
+   <img src="/images/emart/Team1.jpg " width="500" height="313">
+</div>
 - - -
 
 # *③해외시장조사 프로젝트*
@@ -106,29 +117,53 @@ permalink: /projects/
 ##### 3. 외국인을 직접적으로 상대함으로써 글로벌 역량을 기를 수 있었습니다.
 
 ## 활동사진
-![이마트 이미지](/images/sch/sch7.jpg )
 
-![이마트 이미지](/images/sch/sch6.jpg )
 
-![이마트 이미지](/images/sch/sch3.jpg )
+<div style="border: 1px ; float: left; width: 50%;">
+  <img src="/images/sch/sch7.jpg " width="500" height="313">
+</div>
+<div style="border: 1px ; float: left; width: 50%;">
+  <img src="/images/sch/sch6.jpg " width="500" height="313">
+</div>
 
-![이마트 이미지](/images/sch/sch5.jpg )
+<div style="border: 1px ; float: left; width: 50%;">
+   <img src="/images/sch/sch3.jpg " width="500" height="313">
+</div>
+<div style="border: 1px ; float: left; width: 50%;">
+   <img src="/images/sch/sch5.jpg " width="500" height="313">
+</div>
 
 - - -
 
 # *④기타 활동*
 
 ##### 1. 독거노인 봉사활동
-![이마트 이미지](/images/etc/etc1.jpg )
-![이마트 이미지](/images/etc/etc2.jpg )
+
+<div style="border: 1px ; float: left; width: 50%;">
+  <img src="/images/etc/etc1.jpg " width="500" height="340">
+</div>
+<div style="border: 1px ; float: left; width: 50%;">
+  <img src="/images/etc/etc2.jpg " width="500" height="340">
+</div>
 ![이마트 이미지](/images/etc/etc3.jpg )
 
 ##### 2. 팔찌판매 활동
-![이마트 이미지](/images/etc/ect4.jpg )
-![이마트 이미지](/images/etc/etc5.jpg )
 
-##### 3. 대학교 과대모임 활동
-![이마트 이미지](/images/etc/etc7.jpg )
+<div style="border: 1px ; float: left; width: 50%;">
+  <img src="/images/etc/ect4.jpg "  height="500">
+</div>
+<div style="border: 1px ; float: left; width: 50%;">
+  <img src="/images/etc/etc5.jpg "  height="500">
+</div>
 
-##### 4. 곤지암 리조트 컨시어지팀 활동
-![이마트 이미지](/images/etc/etc6.jpg )
+
+##### 3. 대학교 과대모임 활동 & 곤지암 리조트 컨시어지팀 활동
+
+<div style="border: 1px ; float: left; width: 50%;">
+  <img src="/images/etc/etc7.jpg " >
+</div>
+<div style="border: 1px ; float: left; width: 50%;">
+  <img src="/images/etc/etc6.jpg " >
+</div>
+
+- - -
